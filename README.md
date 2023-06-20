@@ -4,7 +4,7 @@
 
 Execute in Tools » NuGet Package Manager » Package Manager Console
 
-dotnet add package 5PaisaDotNetLibrary 1.0.1
+dotnet add package 5PaisaDotNetLibrary 1.1
 
 Download 5Paisaapi-dotnet.dll file and add reference to your desktop/web application
 # API Usage
